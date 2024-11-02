@@ -1,17 +1,25 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dagmawi Tensay
 ======================================================================================================================================
 
-Software Engineer, Full Stack Developer
+**Software Engineer | Full Stack Developer**  
 ---------------------------------------
 
-I'm a fourth-year software engineering student at Addis Ababa University, AAiT. I've been on a coding journey since my journey began at AAiT, and I'm incredibly passionate about the world of backend development and the fascinating realms of machine learning and artificial intelligence. 🚀
+I’m a passionate software engineer with a focus on backend development and a growing interest in machine learning and artificial intelligence. I enjoy building scalable applications and solving complex problems through code. 🚀
 
-* 🌍  I'm based in Addis Ababa, Ethiopia
-* ✉️  You can contact me at [dagimawitensay@gmail.com](mailto:dagimawitensay@gmail.com)
-* 🧠  I'm learning Machine Learning and Robotics.
-* 🤝  I'm open to collaborating on Full Stack Projects and Mobile App development.
+* 🌍  Based in Addis Ababa, Ethiopia
+* ✉️  Contact me at [dagitensay@gmail.com]
+* 🤝  Open to collaborating on Full Stack Projects and Mobile App Development
 
 ### Skills
+- **Backend Development:** Proficient in Node.js, NestJS, Go, and Express
+- **Frontend Development:** Experienced with React, Next and Vue
+- **Database Management:** Knowledgeable in SQL and NoSQL databases, including MongoDB and PostgreSQL
+- **Cloud Services:** Familiar with deploying applications on platforms like Supabase
+- **Version Control:** Proficient with Git and GitHub for source code management
+- **API Development:** Skilled in building RESTful APIs and microservices
+- **Machine Learning:** Basic understanding of machine learning concepts and algorithms
+
+Feel free to connect with me on GitHub to explore my projects and contributions!
 
 
 <p align="left">
