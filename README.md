@@ -46,15 +46,6 @@
 
 ---
 
-### Problem Solving & DSA
-
-* Active **LeetCode problem solver**
-* Focus on Data Structures, Algorithms, and backend interview preparation
-
-🔗 **LeetCode:** [https://leetcode.com/u/Dagmawi_Tensay/](https://leetcode.com/u/Dagmawi_Tensay/)
-
----
-
 ### GitHub & Coding Stats
 
 <div align="center">
