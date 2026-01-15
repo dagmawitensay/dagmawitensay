@@ -61,7 +61,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dagmawitensay\&show_icons=true\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawitensay\&layout=compact\&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=dagmawitensay\&theme=radical)](https://git.io/streak-stats)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/priyankahotkar_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Dagmawi_Tensay/)
 
 </div>
 
