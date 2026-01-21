@@ -50,17 +50,17 @@
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=dagmawitensay&show_icons=true&theme=radical" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=dagmawitensay&show_icons=true&theme=radical" />
     </td>
-    <td width="50%" align="center">
-      <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawitensay&layout=compact&theme=radical" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawitensay&layout=compact&theme=radical" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img width="420" src="https://leetcard.jacoblin.cool/Dagmawi_Tensay?theme=dark&font=Fira%20Code" />
+  <img src="https://leetcard.jacoblin.cool/Dagmawi_Tensay?theme=dark&font=Fira%20Code" />
 </div>
 
 ---
