@@ -50,11 +50,11 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=dagmawitensay&show_icons=true&theme=radical" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawitensay&theme=radical" />
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawitensay&theme=radical&langs_count=5" />
     </td>
   </tr>
   <tr>
