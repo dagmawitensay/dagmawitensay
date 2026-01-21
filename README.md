@@ -10,7 +10,7 @@
 * Currently working as a **Backend Developer** and active **Freelancer**
 * Experienced in building **scalable APIs**, **document automation systems**, and **AI-powered applications**
 * Comfortable working across startups, freelance projects, and fast-paced teams
-* Passionate about clean architecture, performance, and solving meaningful problems
+* Passionate about designing maintainable backend systems, optimizing performance bottlenecks, and shipping reliable APIs to production
 
 ---
 
@@ -53,6 +53,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dagmawitensay\&show_icons=true\&theme=radical)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawitensay\&layout=compact\&theme=radical)<br/>
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Dagmawi_Tensay?theme=dark&font=Fira%20Code)](https://leetcode.com/u/Dagmawi_Tensay/)
+
 </div>
 ---
 
