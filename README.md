@@ -48,22 +48,12 @@
 
 ### GitHub & Coding Stats
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=dagmawitensay&show_icons=true&theme=radical" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawitensay&theme=radical&langs_count=5" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://leetcard.jacoblin.cool/Dagmawi_Tensay?theme=radical&font=Fira%20Code" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dagmawitensay\&show_icons=true\&theme=radical)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawitensay\&layout=compact\&theme=radical)<br/>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Dagmawi_Tensay?theme=dark&font=Fira%20Code)](https://leetcode.com/u/Dagmawi_Tensay/)
+</div>
 ---
 
 ### Contact Me
