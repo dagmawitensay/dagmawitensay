@@ -26,16 +26,10 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dagmawitensay&theme=github_dark">
-  <img alt="GitHub activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dagmawitensay&theme=github">
-</picture>
+<img alt="GitHub activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dagmawitensay&theme=github_dark">
 
 <a href="https://leetcode.com/u/Dagmawi_Tensay/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Dagmawi_Tensay?font=Inter&animation=false&radius=6&colors=0d1117,21262d,e6edf3,8b949e,58a6ff,3fb950,d29922,f85149">
-  <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/Dagmawi_Tensay?font=Inter&animation=false&radius=6&colors=ffffff,f6f8fa,1f2328,656d76,0969da,1a7f37,9a6700,cf222e">
-</picture>
+<img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/Dagmawi_Tensay?font=Inter&animation=false&radius=6&colors=0d1117,21262d,e6edf3,8b949e,58a6ff,3fb950,d29922,f85149">
 </a>
 
 </div>
